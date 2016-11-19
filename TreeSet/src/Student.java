@@ -1,4 +1,4 @@
-@SuppressWarnings("rawtypes")//神马意思？？？？？？？？？？？？？？？
+@SuppressWarnings("rawtypes")//不显示警告
 public class Student implements Comparable
 {
 	String number;
